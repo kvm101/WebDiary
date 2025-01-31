@@ -5,4 +5,5 @@ Project for writing thoughts every day
 - Go
 - Postgres(pgx)
 - HTML, CSS, JS, Go(templates/html)
+- JWT
 - Swagger
